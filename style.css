@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid rgb(159, 219, 177);
+}
+
+#cloudImg {
+  display: none;
+}
